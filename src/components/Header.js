@@ -4,7 +4,7 @@ import React from "react";
 const Header = () => {
     return ( 
         <div>
-            hola
+            hola que pasa wacho
         </div>
      );
 }
